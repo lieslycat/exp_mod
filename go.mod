@@ -1,3 +1,3 @@
-module github.com/lieslycat/exp
+module github.com/lieslycat/exp_mod
 
 go 1.13
